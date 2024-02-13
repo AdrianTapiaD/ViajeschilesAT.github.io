@@ -24,3 +24,9 @@ body{
 .lowertext {
     font-size: 20px;
 }
+
+.socialWrap {
+
+    justify-content: right;
+  }
+
