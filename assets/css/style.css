@@ -30,3 +30,6 @@ body{
     justify-content: right;
   }
 
+  .blue-text {
+    color: cadetblue !important;
+}
